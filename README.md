@@ -1,2 +1,2 @@
 # web-club
-Wszystkie informacje o kółku webowym
+W tym repozytorium znajdziesz wszystko co musisz wiedzieć o szkolnym kółku webowym.
