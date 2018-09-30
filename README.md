@@ -5,7 +5,7 @@ W tym repozytorium znajdziesz wszystko co musisz wiedzieć o szkolnym kółku we
 | Data | Temat | Prowadzący |
 | --- | --- | --- |
 | Październiki | Git, Github | Patryk |
-| Listopad | - | - |
+| Listopad | Scaling web applications | Patryk |
 | Grudzień | - | - |
 | Styczeń | - | - |
 | Luty | - | - |
